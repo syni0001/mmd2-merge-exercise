@@ -16,3 +16,4 @@ Siden det her ikke er jeres repository kan i IKKE pushe
 8. Lav en ny branch
 9. Lav et par commits (`add`, `commit`)
 10. Og merge det så tilbage ind i `main` (husk at stå på `main` når du merger)
+11. disse
